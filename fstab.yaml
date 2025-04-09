@@ -1,7 +1,6 @@
 mountpoints:
-  /:
-    url: https://adobe.sharepoint.com/:f:/r/sites/edsdemonew/Shared%20Documents/edsdemonew?csf=1&web=1&e=0HX2vF
-    type: markup
+  /: https://adobe.sharepoint.com/:f:/r/sites/edsdemonew/Shared%20Documents/edsdemonew/eds-commerce-storefront?csf=1&web=1&e=HgfmFM
+    
 
 folders:
   /products/: /products/default
